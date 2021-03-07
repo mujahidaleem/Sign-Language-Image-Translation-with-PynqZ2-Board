@@ -29,4 +29,5 @@ python
 theano
 
 Demo Link: https://www.youtube.com/watch?v=BW_27-82W9c
+
 Devpost Link: https://devpost.com/software/sign-language-image-translation-with-pynqz2-board#updates
